@@ -8,7 +8,7 @@ This list was created with a view to connect more people to information. It's ai
 
 
 ## Contributing
-Please kindly follow [CONTRIBUTING.md](https://github.com/lnishan/awesome-competitive-programming/blob/master/CONTRIBUTING.md) to get started (including TODOs).
+Please kindly follow [CONTRIBUTING.md](CONTRIBUTING.md) to get started (including TODOs).
 
 
 ## Table of Contents
